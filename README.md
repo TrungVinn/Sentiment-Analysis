@@ -1,8 +1,4 @@
 # Sentiment-Analysis
-Dưới đây là một mẫu README bằng tiếng Việt cho dự án phân tích cảm xúc trên bộ dữ liệu IMDB, sử dụng các phương pháp machine learning:
-
----
-
 # Phân tích cảm xúc trên Bộ dữ liệu IMDB
 
 ## Giới thiệu
@@ -25,7 +21,7 @@ Các phương pháp machine learning sau được sử dụng trong dự án nà
 ### Yêu cầu
 
 - Python 3.x
-- Các thư viện: numpy, pandas, scikit-learn
+- Các thư viện: numpy, pandas, scikit-learn...
 
 ### Cài đặt các thư viện
 
@@ -37,15 +33,11 @@ pip install numpy pandas scikit-learn
 
 ## Hướng dẫn sử dụng
 
-1. **Tải dữ liệu**: Tải bộ dữ liệu IMDB từ [đường link](link-to-dataset) và giải nén vào thư mục dự án.
-2. **Huấn luyện mô hình**: Chạy script `train.py` để huấn luyện mô hình và lưu trữ các mô hình đã huấn luyện.
-3. **Đánh giá mô hình**: Chạy script `evaluate.py` để đánh giá hiệu suất của mô hình trên tập kiểm tra.
+1. **Clone code và dữ liệu**
+2. **Runcode lần lượt từ đầu file**
 
 ## Tác giả
 
-- Tên: [Tên của bạn]
-- Liên lạc: [email@example.com]
+- Tên: [Lê Nguyễn Trung Vĩnh]
+- Liên lạc: [lntrungvinhds@gmail.com]
 
---- 
-
-Bạn có thể điều chỉnh nội dung này tùy theo cấu trúc và chi tiết của dự án cụ thể của bạn.
